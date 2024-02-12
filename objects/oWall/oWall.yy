@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sWallWood",
-    "path": "sprites/sWallWood/sWallWood.yy",
+    "name": "sWoodWall",
+    "path": "sprites/sWoodWall/sWoodWall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

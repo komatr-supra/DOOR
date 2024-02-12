@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "sPadlockIdle",
+    "path": "sprites/sPadlockIdle/sPadlockIdle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

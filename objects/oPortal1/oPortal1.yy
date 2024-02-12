@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPortal1",
-    "path": "sprites/sPortal1/sPortal1.yy",
+    "name": "sPortal",
+    "path": "sprites/sPortal/sPortal.yy",
   },
   "spriteMaskId": null,
   "visible": true,
