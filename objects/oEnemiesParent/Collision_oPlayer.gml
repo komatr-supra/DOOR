@@ -1,5 +1,4 @@
-other.take_damage(dmg);
-take_damage();
+if(other.take_damage(dmg)) take_damage();
 
 
 

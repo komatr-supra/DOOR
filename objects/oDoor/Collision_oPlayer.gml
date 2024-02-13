@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-//is_bouncing = false;
-speed = spd_default;
+if(other.is_alive) room_goto(target_room);
+
 
 
 

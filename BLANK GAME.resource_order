@@ -68,6 +68,7 @@
     {"name":"sPortal1","order":1,"path":"sprites/sPortal1/sPortal1.yy",},
     {"name":"TGMX_0_MainTweens","order":2,"path":"scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy",},
     {"name":"Sprite2","order":4,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sPortal2","order":2,"path":"sprites/sPortal2/sPortal2.yy",},
   ],
 }
