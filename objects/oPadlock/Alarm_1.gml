@@ -6,8 +6,7 @@
 var player = instance_find(oPlayer, 0);
 alarm[1] = 30;
 if(!player or distance_to_object(player) > 256) return;
-target_x = player.x;
-target_y = player.y;
+
 
 
 

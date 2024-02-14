@@ -11,6 +11,9 @@ can_jump = true;
 event_inherited();
 part = part_system_create_layer("Under", false ,ParticleSystem1);
 part_system_global_space(part, true);
+part_hit = part_system_create_layer("Under", false ,ParticleImpact);
+part_system_global_space(part_hit, true);
+//part_sys
 is_bouncing = false;
 die_anim = sPlayerDead;
 dir = 0;

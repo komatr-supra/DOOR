@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWall",
-  "eventList": [],
+  "name": "oTitle",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -24,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sWoodWall",
-    "path": "sprites/sWoodWall/sWoodWall.yy",
+    "name": "sLogo",
+    "path": "sprites/sLogo/sLogo.yy",
   },
   "spriteMaskId": null,
   "visible": true,

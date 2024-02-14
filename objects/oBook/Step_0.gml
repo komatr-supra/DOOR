@@ -5,7 +5,7 @@ else{
 	y += spd;
 }
 
-
+part_system_position(part, x, y);
 
 
 
