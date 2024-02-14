@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Placeholder",
-    "path": "folders/Sprites/Placeholder.yy",
+    "name": "Placeholders",
+    "path": "folders/Sprites/Placeholders.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
