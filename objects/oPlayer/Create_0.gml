@@ -5,7 +5,7 @@
 
 can_jump = true;
 
-
+should_move_back = false;
 
 // Inherit the parent event
 event_inherited();
