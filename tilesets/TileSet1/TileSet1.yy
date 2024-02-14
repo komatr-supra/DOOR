@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "sWoodWall",
-    "path": "sprites/sWoodWall/sWoodWall.yy",
+    "name": "TILE2",
+    "path": "sprites/TILE2/TILE2.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
