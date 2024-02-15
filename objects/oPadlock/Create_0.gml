@@ -3,7 +3,7 @@
 
 
 
-path = -1;
+
 
 
 
@@ -17,3 +17,4 @@ target_x = 0;
 target_y = 0;
 alarm[1] = 1;
 die_anim = sPadlockDead;
+path = -1;
