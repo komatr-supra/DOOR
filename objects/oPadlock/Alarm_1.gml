@@ -11,10 +11,3 @@ if(mp_grid_path(global.mp_grid, _path, x, y, player.x, player.y,true)){
 	path = _path;
 	path_start(path, 1.5, path_action_stop, true);
 }
-
-
-
-
-
-
-
