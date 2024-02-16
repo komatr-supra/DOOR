@@ -70,6 +70,7 @@
     {"name":"TGMX_2_EaseFunctions","order":4,"path":"scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy",},
     {"name":"sPlayerFollow","order":3,"path":"sprites/sPlayerFollow/sPlayerFollow.yy",},
     {"name":"Room4","order":6,"path":"rooms/Room4/Room4.yy",},
+    {"name":"PORTALS","order":4,"path":"sprites/PORTALS/PORTALS.yy",},
     {"name":"Sprite3","order":5,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"rmStart","order":2,"path":"rooms/rmStart/rmStart.yy",},
     {"name":"GM_FlameIntensity_spr_Fire","order":3,"path":"sprites/GM_FlameIntensity_spr_Fire/GM_FlameIntensity_spr_Fire.yy",},
