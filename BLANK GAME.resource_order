@@ -67,6 +67,7 @@
     {"name":"sOptionsButton","order":1,"path":"sprites/sOptionsButton/sOptionsButton.yy",},
     {"name":"ParticleBook","order":4,"path":"particles/ParticleBook/ParticleBook.yy",},
     {"name":"Room2","order":5,"path":"rooms/Room2/Room2.yy",},
+    {"name":"rm_Cutscene","order":1,"path":"rooms/rm_Cutscene/rm_Cutscene.yy",},
     {"name":"TGMX_2_EaseFunctions","order":4,"path":"scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy",},
     {"name":"sPlayerFollow","order":3,"path":"sprites/sPlayerFollow/sPlayerFollow.yy",},
     {"name":"Room4","order":6,"path":"rooms/Room4/Room4.yy",},

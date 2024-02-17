@@ -101,6 +101,7 @@
     {"id":{"name":"sPlayerIdle","path":"sprites/sPlayerIdle/sPlayerIdle.yy",},},
     {"id":{"name":"ParticleBook","path":"particles/ParticleBook/ParticleBook.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"rm_Cutscene","path":"rooms/rm_Cutscene/rm_Cutscene.yy",},},
     {"id":{"name":"TGMX_2_EaseFunctions","path":"scripts/TGMX_2_EaseFunctions/TGMX_2_EaseFunctions.yy",},},
     {"id":{"name":"sPlayerFollow","path":"sprites/sPlayerFollow/sPlayerFollow.yy",},},
     {"id":{"name":"o_SharedTweener","path":"objects/o_SharedTweener/o_SharedTweener.yy",},},
@@ -161,6 +162,7 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"rm_Cutscene","path":"rooms/rm_Cutscene/rm_Cutscene.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
