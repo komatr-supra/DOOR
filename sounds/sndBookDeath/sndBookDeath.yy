@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "sndBookDeath.ogg",
   "type": 0,
-  "volume": 0.44,
+  "volume": 0.45,
 }

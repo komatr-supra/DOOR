@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "sndBookMove.ogg",
   "type": 0,
-  "volume": 0.12,
+  "volume": 0.15,
 }

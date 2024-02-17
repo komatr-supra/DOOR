@@ -19,3 +19,5 @@ alarm[1] = 1;
 die_anim = sPadlockDead;
 path = -1;
 move_audio = noone;
+part = part_system_create_layer("Under", false ,ParticlePlayer);
+part_system_global_space(part, true);
