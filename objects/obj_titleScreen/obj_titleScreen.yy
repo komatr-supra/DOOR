@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Sabrina Work",
-    "path": "folders/Objects/Sabrina Work.yy",
+    "name": "titleScreen",
+    "path": "folders/Objects/Sabrina Work/titleScreen.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -1,8 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTitle",
+  "name": "obj_playButton",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sLogo",
-    "path": "sprites/sLogo/sLogo.yy",
+    "name": "sPlayButtonS",
+    "path": "sprites/sPlayButtonS/sPlayButtonS.yy",
   },
   "spriteMaskId": null,
   "visible": true,
