@@ -87,6 +87,7 @@
     {"id":{"name":"sWallWood","path":"sprites/sWallWood/sWallWood.yy",},},
     {"id":{"name":"sndPlayerHit","path":"sounds/sndPlayerHit/sndPlayerHit.yy",},},
     {"id":{"name":"oPortalParent","path":"objects/oPortalParent/oPortalParent.yy",},},
+    {"id":{"name":"sOKey","path":"sprites/sOKey/sOKey.yy",},},
     {"id":{"name":"sndBookDeath","path":"sounds/sndBookDeath/sndBookDeath.yy",},},
     {"id":{"name":"sCoin","path":"sprites/sCoin/sCoin.yy",},},
     {"id":{"name":"ParticleImpact","path":"particles/ParticleImpact/ParticleImpact.yy",},},
@@ -120,6 +121,7 @@
     {"id":{"name":"sPlayerFollow","path":"sprites/sPlayerFollow/sPlayerFollow.yy",},},
     {"id":{"name":"o_SharedTweener","path":"objects/o_SharedTweener/o_SharedTweener.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"id":{"name":"obj_levelSelect","path":"objects/obj_levelSelect/obj_levelSelect.yy",},},
     {"id":{"name":"PORTALS","path":"sprites/PORTALS/PORTALS.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
@@ -174,6 +176,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
@@ -183,7 +186,6 @@
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"rm_Cutscene","path":"rooms/rm_Cutscene/rm_Cutscene.yy",},},
     {"roomId":{"name":"rm_cutsceneFinal","path":"rooms/rm_cutsceneFinal/rm_cutsceneFinal.yy",},},
-    {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

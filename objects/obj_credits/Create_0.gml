@@ -1,11 +1,18 @@
-/// @description Insert description here
-// You can write your code in this editor
-BarbaSprite = sPlayerIdle
-KomarSprite = ""
-sabrinaSprite = ""
-pepsprite = sPlayerDead 
-xpos =32 
+scroll_speed = 2; 
+y_pos = room_height; 
+
+creators = [
+    ["Komar", "Role 1"],
+    ["Barba", "Role 2"],
+    ["Sabrina", "Role 3"],
+    ["Pep", "Role 4"],
+];
 
 
-
+creator_sprites = [
+    sOKey,
+    sPlayerIdle,
+    sCoin,
+    sPlayerDead,
+];
 
