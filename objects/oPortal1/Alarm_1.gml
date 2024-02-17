@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 
+scr_zoomReset()
 
-
+alarm[0] = room_speed *5
 
 

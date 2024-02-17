@@ -7,5 +7,3 @@ levels = [
 	["5", "Level 5","Locked"],
 ];
 
-
-is_visable = false
