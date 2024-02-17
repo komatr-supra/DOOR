@@ -125,7 +125,6 @@
     {"id":{"name":"sPadlockFollow","path":"sprites/sPadlockFollow/sPadlockFollow.yy",},},
     {"id":{"name":"oHealthParent","path":"objects/oHealthParent/oHealthParent.yy",},},
     {"id":{"name":"TGMX_6_TweenTools","path":"scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy",},},
-    {"id":{"name":"TEST","path":"rooms/TEST/TEST.yy",},},
     {"id":{"name":"TGMX_Experimental","path":"scripts/TGMX_Experimental/TGMX_Experimental.yy",},},
     {"id":{"name":"oPortal1","path":"objects/oPortal1/oPortal1.yy",},},
     {"id":{"name":"sndMainMenu","path":"sounds/sndMainMenu/sndMainMenu.yy",},},
@@ -155,7 +154,6 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"TEST","path":"rooms/TEST/TEST.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},

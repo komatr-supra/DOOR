@@ -8,7 +8,7 @@ var _dir = point_direction(x, y, mouse_x, mouse_y);
 var _diff = angle_difference(_dir, direction);
 
 direction += _diff * 0.05;
-image_angle = direction;
+image_angle = direction + 180;
 
 
 x_prev = x;
