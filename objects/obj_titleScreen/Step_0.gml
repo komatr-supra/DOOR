@@ -14,7 +14,7 @@ if (keyboard_check_pressed(vk_space)) {
 
 // Option selection with mouse
 
-if (room_height/2 - 545 && mouse_y < room_height/2 + 545) {
+if (mouse_y > room_height*.80 - 150 && mouse_y < room_height*.80 + 150) && (mouse_x > room_width / 2 - 80 && mouse_y < room_width / 2 + 80) {
     option_selected = 0;
 } else {
     option_selected = 1;
