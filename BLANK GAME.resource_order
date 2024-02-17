@@ -43,6 +43,7 @@
     {"name":"scr_zoomReset","order":2,"path":"scripts/scr_zoomReset/scr_zoomReset.yy",},
     {"name":"rm_cutsceneFinal","order":2,"path":"rooms/rm_cutsceneFinal/rm_cutsceneFinal.yy",},
     {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"sSabrina","order":6,"path":"sprites/sSabrina/sSabrina.yy",},
     {"name":"TGMX_9_Settings","order":11,"path":"scripts/TGMX_9_Settings/TGMX_9_Settings.yy",},
     {"name":"BOOKS","order":2,"path":"sprites/BOOKS/BOOKS.yy",},
     {"name":"TGMX_8_SystemUtilities","order":10,"path":"scripts/TGMX_8_SystemUtilities/TGMX_8_SystemUtilities.yy",},

@@ -69,6 +69,7 @@
     {"id":{"name":"scr_zoomReset","path":"scripts/scr_zoomReset/scr_zoomReset.yy",},},
     {"id":{"name":"rm_cutsceneFinal","path":"rooms/rm_cutsceneFinal/rm_cutsceneFinal.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"sSabrina","path":"sprites/sSabrina/sSabrina.yy",},},
     {"id":{"name":"TGMX_9_Settings","path":"scripts/TGMX_9_Settings/TGMX_9_Settings.yy",},},
     {"id":{"name":"sLevelBackgrounds","path":"sprites/sLevelBackgrounds/sLevelBackgrounds.yy",},},
     {"id":{"name":"BOOKS","path":"sprites/BOOKS/BOOKS.yy",},},
@@ -183,8 +184,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
+    {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

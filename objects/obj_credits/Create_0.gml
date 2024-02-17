@@ -2,17 +2,17 @@ scroll_speed = 2;
 y_pos = room_height; 
 
 creators = [
-    ["Komar", "Role 1"],
-    ["Barba", "Role 2"],
-    ["Sabrina", "Role 3"],
-    ["Pep", "Role 4"],
+    ["Komar", "Main Code and SFX"],
+    ["Giovanni de Aguiar -Barba- ", "Graphics, Music and Voice Acting"],
+    ["Sabrina Rudkin -Nira-", "Coding, UI, Polish"],
+    ["Pep", "Emotional Support"],
 ];
 
 
 creator_sprites = [
     sOKey,
     sPlayerIdle,
-    sCoin,
+    sSabrina,
     sPlayerDead,
 ];
 
