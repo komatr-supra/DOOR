@@ -1,17 +1,39 @@
-/// @description Insert description here
-// You can write your code in this editor
-/*
+//Volume Control
+ if (point_in_rectangle(mouse_x, mouse_y, x, y, x+64, y+64))
+ 
+ { is_hovered =true;
+	
 
-if (vk_up) {
-    volume_level += 0.1; // Increase volume by 10%
-    if volume_level > 1.0 {
-        volume_level = 1.0; // Ensure volume doesn't exceed maximum
-    }
-}
-if keyboard_check_pressed(vk_down) {
-    volume_level -= 0.1; // Decrease volume by 10%
-    if volume_level < 0.0 {
-        volume_level = 0.0; // Ensure volume doesn't go below minimum
-    }
-}
 
+ } //point in rectangle
+ else
+ {is_hovered = false }
+ 
+ 
+ if is_muted
+        
+        {image_index=1
+       
+    }
+	else { image_index = 0
+		}
+	
+	if (is_hovered) {
+ scr_zoom(1.4);
+} else {scr_zoomReset()}
+
+ if (mouse_check_button_released(mb_left)) && is_hovered
+	 {
+  
+    if (is_muted) {
+        is_muted = false
+    } else {
+        is_muted = true 
+    }
+	 }
+	 
+	 if !is_muted {
+		 audio_master_gain(0)} else {audio_master_gain(1)}
+		 
+		
+		 

@@ -19,6 +19,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Portals","folderPath":"folders/Objects/Portals.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sabrina Work","folderPath":"folders/Objects/Sabrina Work.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"titleScreen","folderPath":"folders/Objects/Sabrina Work/titleScreen.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Rooms/Paths.yy",},
@@ -52,7 +53,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Admin","folderPath":"folders/TweenGMX/Admin.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"User","folderPath":"folders/TweenGMX/User.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curves","folderPath":"folders/TweenGMX/User/Curves.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"titleScreen","folderPath":"folders/Objects/Sabrina Work/titleScreen.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"FINAL.mp4","CopyToMask":-1,"filePath":"datafiles",},

@@ -7,6 +7,7 @@
     {"name":"Objects","order":8,"path":"folders/Objects.yy",},
     {"name":"Portals","order":4,"path":"folders/Objects/Portals.yy",},
     {"name":"Sabrina Work","order":10,"path":"folders/Objects/Sabrina Work.yy",},
+    {"name":"titleScreen","order":7,"path":"folders/Objects/Sabrina Work/titleScreen.yy",},
     {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
     {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
     {"name":"Paths","order":3,"path":"folders/Rooms/Paths.yy",},
@@ -36,7 +37,6 @@
     {"name":"Admin","order":1,"path":"folders/TweenGMX/Admin.yy",},
     {"name":"User","order":2,"path":"folders/TweenGMX/User.yy",},
     {"name":"Curves","order":1,"path":"folders/TweenGMX/User/Curves.yy",},
-    {"name":"titleScreen","order":7,"path":"folders/Objects/Sabrina Work/titleScreen.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sndPadlockMove","order":9,"path":"sounds/sndPadlockMove/sndPadlockMove.yy",},
