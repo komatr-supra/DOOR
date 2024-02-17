@@ -32,8 +32,9 @@
     }
 	 }
 	 
-	 if !is_muted {
-		 audio_master_gain(0)} else {audio_master_gain(1)}
+	 if is_muted {
+		 audio_master_gain(0)} 
+		 else {audio_master_gain(1)}
 		 
 		
 		 

@@ -1,3 +1,5 @@
-if (keyboard_check_released(vk_space)) && !visible{
+if (keyboard_check_released(vk_escape)) && !visible{
     visible = true;
-} else if (keyboard_check_released(vk_space)) && visible { visible = false}
+} else if (keyboard_check_released(vk_escape)) && visible { visible = false}
+
+

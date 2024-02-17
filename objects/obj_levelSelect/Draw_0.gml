@@ -15,7 +15,13 @@ for (var i = 0; i < numLocks; i++) {
     // Check if mouse cursor is within the bounds of the lock sprite
     if (point_in_rectangle(mouseX, mouseY, lockX, lockY, lockX + sprite_get_width(sLevelSelecteds), lockY + sprite_get_height(sLevelSelecteds))) {
         // Mouse is hovering over this lock sprite
-
+     if (levels[i][2] == "Unlocked") && mouse_check_button_pressed(mb_left)
+           
+               {          
+                room_goto(levels[i][3]);
+				visible = false; 
+       
+            }
         // Calculate center position of the sprite
         var spriteCenterX = lockX + sprite_get_width(sLevelSelecteds) / 2;
         var spriteCenterY = lockY + sprite_get_height(sLevelSelecteds) / 2;
@@ -40,16 +46,10 @@ for (var i = 0; i < numLocks; i++) {
             // Draw the circle with the calculated radius and color
             draw_set_color(currentColor);
             draw_circle(spriteCenterX, spriteCenterY, currentRadius, false);
-        }      // Check if the lock is unlocked
-        if (levels[i][2] == "Unlocked") {
-            // Check if the left mouse button is clicked
-            if (mouse_check_button_pressed(mb_left)) {
-                // Go to the room associated with this lock
-                room_goto(levels[i][4]);
-            }
+      
         }
     }
-    }
+}
 // Draw circles with random colors
 for (var i = 0; i < numLocks; i++) {
     var lockX = startX + i * spacing; // Position each lock
