@@ -64,6 +64,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"rm_cutsceneFinal","path":"rooms/rm_cutsceneFinal/rm_cutsceneFinal.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"TGMX_9_Settings","path":"scripts/TGMX_9_Settings/TGMX_9_Settings.yy",},},
     {"id":{"name":"sLevelBackgrounds","path":"sprites/sLevelBackgrounds/sLevelBackgrounds.yy",},},
@@ -87,6 +88,7 @@
     {"id":{"name":"sPlayerFollowHurt","path":"sprites/sPlayerFollowHurt/sPlayerFollowHurt.yy",},},
     {"id":{"name":"TGMX_4_TweenState","path":"scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy",},},
     {"id":{"name":"EaseHeartbeat","path":"animcurves/EaseHeartbeat/EaseHeartbeat.yy",},},
+    {"id":{"name":"obj_cutscene2","path":"objects/obj_cutscene2/obj_cutscene2.yy",},},
     {"id":{"name":"BG_3","path":"sprites/BG_3/BG_3.yy",},},
     {"id":{"name":"BG_4","path":"sprites/BG_4/BG_4.yy",},},
     {"id":{"name":"BG_2","path":"sprites/BG_2/BG_2.yy",},},
@@ -167,6 +169,7 @@
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"rm_Cutscene","path":"rooms/rm_Cutscene/rm_Cutscene.yy",},},
+    {"roomId":{"name":"rm_cutsceneFinal","path":"rooms/rm_cutsceneFinal/rm_cutsceneFinal.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

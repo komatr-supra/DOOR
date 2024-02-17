@@ -38,6 +38,7 @@
     {"name":"Curves","order":1,"path":"folders/TweenGMX/User/Curves.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"rm_cutsceneFinal","order":2,"path":"rooms/rm_cutsceneFinal/rm_cutsceneFinal.yy",},
     {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"TGMX_9_Settings","order":11,"path":"scripts/TGMX_9_Settings/TGMX_9_Settings.yy",},
     {"name":"BOOKS","order":2,"path":"sprites/BOOKS/BOOKS.yy",},
@@ -53,6 +54,7 @@
     {"name":"ParticleImpact","order":2,"path":"particles/ParticleImpact/ParticleImpact.yy",},
     {"name":"sPlayerFollowHurt","order":4,"path":"sprites/sPlayerFollowHurt/sPlayerFollowHurt.yy",},
     {"name":"TGMX_4_TweenState","order":6,"path":"scripts/TGMX_4_TweenState/TGMX_4_TweenState.yy",},
+    {"name":"obj_cutscene2","order":3,"path":"objects/obj_cutscene2/obj_cutscene2.yy",},
     {"name":"BG_3","order":2,"path":"sprites/BG_3/BG_3.yy",},
     {"name":"BG_4","order":3,"path":"sprites/BG_4/BG_4.yy",},
     {"name":"BG_2","order":1,"path":"sprites/BG_2/BG_2.yy",},
