@@ -6,7 +6,7 @@
 can_jump = true;
 
 should_move_back = false;
-
+death_sound = noone;
 // Inherit the parent event
 event_inherited();
 part = part_system_create_layer("Under", false ,ParticlePlayer);

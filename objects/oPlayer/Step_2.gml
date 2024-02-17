@@ -16,7 +16,7 @@ if(place_meeting(x, y, tile_id)){
 	else{
 		
 	is_bouncing = true;
-
+	audio_play_sound(sndPlayerHit, 50, false);
 	speed = -speed;
 	alarm[2] = 20;
 	alarm[4] = 20;

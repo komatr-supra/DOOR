@@ -8,7 +8,7 @@ for(var _x = 0; _x < room_width /64; _x++){
 		if(tilemap_get(map_id,_x,_y) != 0) mp_grid_add_cell(global.mp_grid, _x, _y);
 	}
 }
-
+audio_play_sound(sndLevelStart, 80, false);
 
 
 
