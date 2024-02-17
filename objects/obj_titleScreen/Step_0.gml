@@ -4,7 +4,7 @@
 if (keyboard_check_pressed(vk_space)) {
     if (option_selected == 0) {
         // Start new game
-        room_goto(rm_dialog);
+        room_goto(rmStart);
     } else if (option_selected == 1) {
         // Continue game (load saved data)
         // Add your code to load saved data here
