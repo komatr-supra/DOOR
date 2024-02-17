@@ -61,6 +61,7 @@
     {"name":"sPadlockDead","order":2,"path":"sprites/sPadlockDead/sPadlockDead.yy",},
     {"name":"TGMX_3_EventCallbacks","order":5,"path":"scripts/TGMX_3_EventCallbacks/TGMX_3_EventCallbacks.yy",},
     {"name":"TGMX_1_EasyTweens","order":3,"path":"scripts/TGMX_1_EasyTweens/TGMX_1_EasyTweens.yy",},
+    {"name":"obj_cutscene1","order":2,"path":"objects/obj_cutscene1/obj_cutscene1.yy",},
     {"name":"oPadlock","order":1,"path":"objects/oPadlock/oPadlock.yy",},
     {"name":"sLevelSelected","order":4,"path":"sprites/sLevelSelected/sLevelSelected.yy",},
     {"name":"Room5","order":7,"path":"rooms/Room5/Room5.yy",},
