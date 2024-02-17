@@ -89,7 +89,6 @@
     {"name":"sPadlockFollow","order":1,"path":"sprites/sPadlockFollow/sPadlockFollow.yy",},
     {"name":"oHealthParent","order":3,"path":"objects/oHealthParent/oHealthParent.yy",},
     {"name":"TGMX_6_TweenTools","order":8,"path":"scripts/TGMX_6_TweenTools/TGMX_6_TweenTools.yy",},
-    {"name":"TEST","order":9,"path":"rooms/TEST/TEST.yy",},
     {"name":"TGMX_Experimental","order":12,"path":"scripts/TGMX_Experimental/TGMX_Experimental.yy",},
     {"name":"sLogo","order":2,"path":"sprites/sLogo/sLogo.yy",},
     {"name":"EaseFastToSlow","order":2,"path":"animcurves/EaseFastToSlow/EaseFastToSlow.yy",},
