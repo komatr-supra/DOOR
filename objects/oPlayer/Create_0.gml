@@ -9,7 +9,7 @@ should_move_back = false;
 
 // Inherit the parent event
 event_inherited();
-part = part_system_create_layer("Under", false ,ParticleSystem1);
+part = part_system_create_layer("Under", false ,ParticlePlayer);
 part_system_global_space(part, true);
 part_hit = part_system_create_layer("Under", false ,ParticleImpact);
 part_system_global_space(part_hit, true);
