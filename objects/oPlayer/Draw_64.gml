@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_set_font(Font1);
-var _str = "LIVES: " + string(hp);
+var _str = "LIFE: " + string(hp);
 var _width = string_width(_str);
 var _height = string_height(_str);
 draw_set_alpha(0.75);
