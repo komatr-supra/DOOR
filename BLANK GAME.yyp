@@ -129,7 +129,6 @@
     {"id":{"name":"PORTALS","path":"sprites/PORTALS/PORTALS.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"sVolume","path":"sprites/sVolume/sVolume.yy",},},
-    {"id":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"id":{"name":"GM_FlameIntensity_spr_Fire","path":"sprites/GM_FlameIntensity_spr_Fire/GM_FlameIntensity_spr_Fire.yy",},},
     {"id":{"name":"sndLevelComplete","path":"sounds/sndLevelComplete/sndLevelComplete.yy",},},
     {"id":{"name":"TGMX_System","path":"scripts/TGMX_System/TGMX_System.yy",},},
@@ -180,7 +179,6 @@
     {"id":{"name":"TGMX_0_MainTweens","path":"scripts/TGMX_0_MainTweens/TGMX_0_MainTweens.yy",},},
     {"id":{"name":"scr_glow","path":"scripts/scr_glow/scr_glow.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"oMainMenu","path":"objects/oMainMenu/oMainMenu.yy",},},
     {"id":{"name":"TILE2","path":"sprites/TILE2/TILE2.yy",},},
     {"id":{"name":"sPlayButton","path":"sprites/sPlayButton/sPlayButton.yy",},},
     {"id":{"name":"sPortal2","path":"sprites/sPortal2/sPortal2.yy",},},
@@ -189,7 +187,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
-    {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},

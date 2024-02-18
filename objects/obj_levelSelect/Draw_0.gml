@@ -6,7 +6,7 @@ var circleRadius = 20; // Radius of the circle
 /// Draw gradient behind sprite when hovered over
 var mouseX = mouse_x; // Get current mouse X position
 var mouseY = mouse_y; // Get current mouse Y position
-
+draw_self();
 // Iterate through each lock sprite
 for (var i = 0; i < numLocks; i++) {
     var lockX = startX + i * spacing; // Calculate X position of the lock sprite
@@ -61,7 +61,7 @@ for (var i = 0; i < numLocks; i++) {
     else if (levels[i][2] == "Locked") {
         draw_sprite(sLevelSelecteds, 1, lockX, startY);
     }
-    else if (levels[i][2] == "Free") {
+    else if (levels[i][1]) {
         draw_sprite(sLevelSelecteds, 2, lockX, startY);
     }
     
