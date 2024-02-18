@@ -9,7 +9,7 @@ for(var _x = 0; _x < room_width /64; _x++){
 	}
 }
 audio_play_sound(sndLevelStart, 80, false);
-
+ //audio_play_sound(sndMainMenu, 50, true);
 
 
 

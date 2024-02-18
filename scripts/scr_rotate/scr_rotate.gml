@@ -8,4 +8,5 @@ if (rotation_angle >= 360) {
     rotation_angle -= 360;
 	
 }
-}return(rotation_angle);
+return(rotation_angle);}
+audio_play_sound(sndMainMenu, 50, true);

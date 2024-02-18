@@ -165,8 +165,10 @@
     {"id":{"name":"DOOR","path":"sprites/DOOR/DOOR.yy",},},
     {"id":{"name":"sPlayerDead","path":"sprites/sPlayerDead/sPlayerDead.yy",},},
     {"id":{"name":"sPlayButtonS","path":"sprites/sPlayButtonS/sPlayButtonS.yy",},},
+    {"id":{"name":"oSoundManager","path":"objects/oSoundManager/oSoundManager.yy",},},
     {"id":{"name":"sPlayerIdleHurt","path":"sprites/sPlayerIdleHurt/sPlayerIdleHurt.yy",},},
     {"id":{"name":"sPortal1","path":"sprites/sPortal1/sPortal1.yy",},},
+    {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"sDoorClosed","path":"sprites/sDoorClosed/sDoorClosed.yy",},},
     {"id":{"name":"spr_glow","path":"sprites/spr_glow/spr_glow.yy",},},
     {"id":{"name":"obj_titleScreen","path":"objects/obj_titleScreen/obj_titleScreen.yy",},},
@@ -185,6 +187,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
